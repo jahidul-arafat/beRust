@@ -1,0 +1,1 @@
+/home/jarotball/study/MyDevSecOps_Community/beRust/rust_fundamentals/guessing_game/target/debug/guessing_game: /home/jarotball/study/MyDevSecOps_Community/beRust/rust_fundamentals/guessing_game/src/main.rs
